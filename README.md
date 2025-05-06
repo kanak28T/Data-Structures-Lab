@@ -41,4 +41,9 @@ List of Experiments :
 
 10.1. Write a C program to construct a Minimum Cost Spanning Tree (MST) using Prim's Algorithm, printing the selected edges and the total minimum cost.
 
+11.1  Write a Program to add two polynomials using linked list, demonstrating the application of linked list struct to represent and manipulate polynomial expressions.
+
+12.1 Develop Menu Driven Program to implement stack operations including push, pop, overload and traversing allowing for analysis of stack behaviour and efficiency.
+
+13.1 Create a Menu Driven Program to implement queue operations such as enqueue, dequeue, overload , underload and traversing enabling evaluation of queue management and performance characterstics.
 
